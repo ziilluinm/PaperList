@@ -1,6 +1,6 @@
 ## Att机制
 【经典attention在seq2seq】Neural Machine Translation by Jointly Learning to Align and Translate<br>
-paper传送门：<br>
+paper传送门：
 https://arxiv.org/pdf/1409.0473.pdf<br>
 代码传送门:
 https://pan.baidu.com/s/1Mh7k3oZXLb6RKWwjCI9N1g<br>
