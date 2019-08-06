@@ -18,9 +18,9 @@ https://arxiv.org/abs/1710.10467<br>
 代码传送门:
 https://github.com/Janghyun1230/Speaker_Verification<br>
 
-【ge2e+att】<br>
+【ge2e+att】Attention-Based Models for Text-Dependent Speaker Verification<br>
 paper传送门：
-<br>
+https://arxiv.org/abs/1710.10470<br>
 代码传送门:
 https://github.com/liyongze/lstm_speaker_verification<br>
 
