@@ -1,9 +1,9 @@
-Att机制<br>
-【经典attention在seq2seq】<br>
+## Att机制
+【经典attention在seq2seq】Neural Machine Translation by Jointly Learning to Align and Translate<br>
 paper传送门：<br>
-<br>
-代码传送门:<br>
-<br>
+https://arxiv.org/pdf/1409.0473.pdf<br>
+代码传送门:
+https://pan.baidu.com/s/1Mh7k3oZXLb6RKWwjCI9N1g<br>
 
 【self-attention】Attention Is All You Need<br>
 paper传送门：
@@ -11,7 +11,7 @@ https://arxiv.org/abs/1706.03762<br>
 代码传送门:
 https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/transformer.py<br>
 
-声纹识别<br>
+## 声纹识别
 【ge2e】generalized end-to-end loss for speaker verification <br>
 paper传送门：
 https://arxiv.org/abs/1710.10467<br>
@@ -28,6 +28,7 @@ https://github.com/liyongze/lstm_speaker_verification<br>
 paper传送门：
 https://pan.baidu.com/s/1fXnqrsiL9RrEb3BLbQiSyw<br>
 
+## NAS
 【ENAS】Efficient Neural Architecture Search via Parameters Sharing<br>
 paper传送门：
 https://arxiv.org/abs/1802.03268<br>
