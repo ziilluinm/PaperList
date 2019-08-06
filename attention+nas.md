@@ -1,15 +1,15 @@
-Att机制
-【经典attention在seq2seq】
-paper传送门：
+Att机制<br>
+【经典attention在seq2seq】<br>
+paper传送门：<br>
+<br>
+代码传送门:<br>
+<br>
 
-代码传送门:
-
-
-【self-attention】Attention Is All You Need
-paper传送门：
-https://arxiv.org/abs/1706.03762
-代码传送门:
-https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/transformer.py
+【self-attention】Attention Is All You Need<br>
+paper传送门：<br>
+https://arxiv.org/abs/1706.03762<br>
+代码传送门:<br>
+https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/transformer.py<br>
 
 声纹识别
 【ge2e】generalized end-to-end loss for speaker verification 
